@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HN/CLionProjects/password_degen/main.cpp
+iostream
+-
+stdlib.h
+-
+pw_generation.h
+C:/Users/HN/CLionProjects/password_degen/pw_generation.h
+
+C:/Users/HN/CLionProjects/password_degen/pw_generation.h
+string
+-
+iostream
+-
+cstring
+-
+random
+-
+stdlib.h
+-
+time.h
+-
+limits
+-
+
